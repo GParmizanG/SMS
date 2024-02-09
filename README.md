@@ -55,7 +55,7 @@ The main components of the application are:
       - Audit Trail: Provides the ability to audit user actions in the system.
 
 ## Deadline
-13.02.2024
+- **13.02.2024**
 
 ## Evaluation Criteria
 - **Functionality**: Workability of the main functions of the application.
