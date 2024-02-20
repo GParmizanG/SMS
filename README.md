@@ -25,12 +25,12 @@
 
 ### Comands SQL
 
-- **INSERT INTO users (userid, enabled, password, username) VALUES (1, 1, '$2a$10$b0iGiBLHSKsL58sjmGn4F.whPXN.iXdOgt1m.KHHKsh...', 'BrotXer');
+- INSERT INTO users (userid, enabled, password, username) VALUES (1, 1, '$2a$10$b0iGiBLHSKsL58sjmGn4F.whPXN.iXdOgt1m.KHHKsh...', 'BrotXer');
 
-INSERT INTO roles (roleid, name) VALUES (1, 'ADMIN');
-INSERT INTO roles (roleid, name) VALUES (2, 'EDITOR');
+- INSERT INTO roles (roleid, name) VALUES (1, 'ADMIN');
+- INSERT INTO roles (roleid, name) VALUES (2, 'EDITOR');
 
-INSERT INTO user_roles (userid, roleid) VALUES (1, 1);
+- INSERT INTO user_roles (userid, roleid) VALUES (1, 1);
 
 
 ### Project Requirements
