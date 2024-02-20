@@ -34,7 +34,7 @@ INSERT INTO user_roles (userid, roleid) VALUES (1, 1);
 
 
 ### Project Requirements
-**- Implementation of user login functionality.
+- Implementation of user login functionality.
 - Ability to add, edit, and view tasks by users.
 - Mechanism for assigning tasks to users.
 - Ensuring password security using PBKDF2 algorithm with HMAC-SHA1.
