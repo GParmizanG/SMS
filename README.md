@@ -49,6 +49,8 @@
       - Full System Access: Has access to all features within the task management system.
       - User Management: Can create initial user accounts, including the "Admin" user.
       - Role Management: Manages users and their roles through an administrative interface.
+     
+      - https://ivkhk-my.sharepoint.com/:p:/r/personal/arseni_sergejev_ivkhk_ee/Documents/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F6.pptx?d=w8f524cf894c540bcb6a33c05ddfac5b8&csf=1&web=1&e=Lr1W0v
       - Access Control: Implements a mechanism for checking access rights to tasks based on user roles.
 
 ### Deadline
