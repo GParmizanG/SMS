@@ -25,7 +25,7 @@
 
 ### Comands SQL
 
-- INSERT INTO users (userid, enabled, password, username) VALUES (1, 1, '$2a$10$b0iGiBLHSKsL58sjmGn4F.whPXN.iXdOgt1m.KHHKsh...', 'BrotXer');
+- INSERT INTO users (userid, enabled, password, username) VALUES (1, 1, $2a$10$hexE3a/SlRAuodRBgCMAo.AaDkPpXdhbvE0eL2IQXc9t5Kb13eUy6, 'BrotXer');
 
 - INSERT INTO roles (roleid, name) VALUES (1, 'ADMIN');
 - INSERT INTO roles (roleid, name) VALUES (2, 'EDITOR');
