@@ -5,10 +5,10 @@
 - Artjom Patoka
 
 ### Task
-Development of a SMS, a system where users can log in, add students  .
+- Development of a SMS, a system where users can log in, add students  .
 
 ### Project Description
-The main components of the application are:
+- The main components of the application are:
 
 ### User
 - **Attributes**: First Name, Last Name, Gmail, Groupp, Password, Login.
@@ -45,7 +45,7 @@ INSERT INTO user_roles (userid, roleid) VALUES (1, 1);
       - Add Tasks: Can add new tasks to the task management system.
       - Edit Tasks: Can edit the tasks they have created.
 3. **Admin**
-    **- Description: The "ADMINISTRATOR" role has comprehensive access and administrative privileges:
+    - Description: The "ADMINISTRATOR" role has comprehensive access and administrative privileges:
       - Full System Access: Has access to all features within the task management system.
       - User Management: Can create initial user accounts, including the "Admin" user.
       - Role Management: Manages users and their roles through an administrative interface.
